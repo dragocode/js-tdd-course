@@ -7,8 +7,3 @@ function sum() {
 }
 
 sum();
-
-function xablaw() {
-
-}
-
